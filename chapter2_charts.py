@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-《Excel数据可视化——从图表到数据大屏》第二章 30个图表 Python复现
-使用 matplotlib 绘制，数据来源于两个Excel附件
-"""
-
 import matplotlib
 matplotlib.use('Agg')
 import matplotlib.pyplot as plt
